@@ -1,7 +1,7 @@
 # Description:
 In this project the whole restaurant market of Pune city is analyzed and key opportunities for opening a new restaurant are identified using the Zomato dataset of Pune restaurants.
 
-# Visualizations :
+# Dashboard :
 
 ![image](https://github.com/Anugrah2402/Pune-restaurant-opening---Zomato-dataset-Dashboard/assets/114797140/2a148a19-e77d-4596-8e47-b3d3446d004d)
 
