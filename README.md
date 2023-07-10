@@ -5,6 +5,12 @@ In this project the whole restaurant market of Pune city is analyzed and key opp
 
 ![image](https://github.com/Anugrah2402/Pune-restaurant-opening---Zomato-dataset-Dashboard/assets/114797140/2a148a19-e77d-4596-8e47-b3d3446d004d)
 
+Utilizes the following functions:
+- Pivot tables to create breakdowns
+- Pivot charts to provide visualizations
+- Practical and aesthetic use of color
+- Slicers for interactivity
+
 # Key Takeaways from Data:
 
 ### Key Takeaways from Chart 1:
@@ -30,4 +36,5 @@ These restaurants can cater to urban upper-class, high-earning groups of people 
 ### Key Takeaways from Chart 6:
 In areas such as Baner, Viman Nagar and Chinchwad there is a huge opportunity for opening restaurants in the cheap price range as there are only 53.05%, 59.46% and 64.64% of the total restaurants in these areas respectively that serve in the cheap price range category.
 
-# Please download this excel file to view my project.
+# Please download the excel file to view the full and clickable dashboard project using the below link:
+https://github.com/Anugrah2402/Pune-restaurant-opening---Zomato-dataset-Dashboard/blob/main/Zomato%20(Pune)%20dataset%20Dashboard.xlsx
